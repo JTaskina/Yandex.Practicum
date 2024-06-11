@@ -9,10 +9,15 @@
 **Stack**
 
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Plotly
+
 Визуализация данных
 
 **Общий вывод**
