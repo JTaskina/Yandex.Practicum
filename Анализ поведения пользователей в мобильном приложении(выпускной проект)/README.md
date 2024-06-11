@@ -9,11 +9,17 @@
 **Stack**
 
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Plotly
+
 NumPy
+
 SciPy
 
 **Общий вывод**
