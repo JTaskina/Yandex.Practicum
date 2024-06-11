@@ -11,9 +11,13 @@
 **Stack**
 
 Python
+
 Pandas
+
 Matplotlib
+
 NumPy
+
 SciPy
 
 **Общий вывод**
